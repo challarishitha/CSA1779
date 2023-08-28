@@ -1,0 +1,6 @@
+print("C.RISHITHA")
+print("192124026")
+print("feed forward neuralnetwork")
+import numpy as np
+
+def relu(n):
