@@ -1,0 +1,5 @@
+takes(radha, his201).
+takes(john, cs245).
+takes(ramesh, art302).
+takes(radha, cs254).
+classmates(X, Y) :- takes(X, Z), takes(Y, Z).
